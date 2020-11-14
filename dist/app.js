@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.querySelector("#mouse");document.addEventListener("mousemove",(t=>{e.style.left=t.clientX+"px",e.style.top=t.clientY+"px"}))})();
